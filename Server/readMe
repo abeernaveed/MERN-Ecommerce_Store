@@ -1,0 +1,4 @@
+http://127.0.0.1:3000/products?sort=-price format for sorting filter etc
+http://127.0.0.1:3000/brands?sort=-description for brands sorting etc format
+http://127.0.0.1:3000/categories?sort=-name
+http://127.0.0.1:3000/users?sort=lastName
